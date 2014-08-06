@@ -1,0 +1,5 @@
+regionLimit: 10
+claimBlock: GOLD_BLOCK
+DebugMode: true
+durationBetweenDataBackupInSeconds: 5
+messageDisabled:
